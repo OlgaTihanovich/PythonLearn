@@ -1,2 +1,2 @@
 # PythonLearn
-Homework repository
+Homework repository Olga Tihanovich
